@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+img {
+  margin: auto 0 auto 0;
+}
+a {
+  padding: 10px;
+  background-color: grey;
+  text-align: center;
+}
+
+figcaption{
+  text-align: center;
+  font-size: 10px:
+}
+p {
+  text-align: center:
+  
+}
